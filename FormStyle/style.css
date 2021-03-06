@@ -46,7 +46,7 @@ body{
 .btn{
 
     cursor: pointer;
-    display: inline-flex;
+    display: inline-block;
     width: 100%;
     background: lightblue;
     padding: 15px;
