@@ -16,7 +16,7 @@ https://axisrod.github.io/WebFeatures/FormStyle/
 
 https://axisrod.github.io/WebFeatures/Scrolling/
 
-https://axisrod.github.io/WebFeatures/SideNavigation/
+https://axisrod.github.io/WebFeatures/SideNavagation/
 
 https://axisrod.github.io/WebFeatures/Sounds/
 
